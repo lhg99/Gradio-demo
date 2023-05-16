@@ -503,4 +503,4 @@ if __name__=="__main__":
 
 The demo below will appear automatically within the Jupyter Notebook, or pop in a browser on http://localhost:7860 if running from a script:
 
-![weather data demo](readme_files/screenshot.gif){: width="1200" height="840")
+![weather data demo](readme_files/screenshot.gif)
