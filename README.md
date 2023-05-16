@@ -1,4 +1,4 @@
-# **Gradio-demo**
+# **Gradio-Demo**
 
 ## - **Gradio**
 [<img src="readme_files/gradio.svg" alt="gradio" width=300>](https://gradio.app)<br>
@@ -18,7 +18,7 @@ We can use various components for making demos.
 
 This project provides demo for people who want to use gradio library.
 
-## - **Demo description**
+## - **Demo Description**
 
 This demo shows 2022 year weather in table and graph by selecting the month, day, weather elements, and location.
 
@@ -500,5 +500,7 @@ demo = gr.Interface(
 if __name__=="__main__":
     demo.launch()
 ```
+
+The demo below will appear automatically within the Jupyter Notebook, or pop in a browser on http://localhost:7860 if running from a script:
 
 ![weather data demo](readme_files/screenshot.gif)
