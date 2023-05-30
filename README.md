@@ -24,7 +24,7 @@ This demo shows 2022 year weather in table and graph by selecting the month, day
 
 ### **Input components**
 
-Month, day : dropbox<br>
+Month, day : dropdown<br>
 weather elements : checkboxGroup<br>
 location : radio<br>
 precipitation : checkbox
@@ -502,5 +502,10 @@ if __name__=="__main__":
 ```
 
 The demo below will appear automatically within the Jupyter Notebook, or pop in a browser on http://localhost:7860 if running from a script:
+
+We hosted on Hugging Face Space. You can experience a demo under the link.
+
+
+Here's the link : https://huggingface.co/spaces/lhg99/gradio-demo
 
 ![weather data demo](readme_files/screenshot.gif)
