@@ -38,6 +38,11 @@ Weather graph : plots
 
 We used pandas and matplotlib python library when we make dataframe and plots.
 
+Here's the pandas and matplotlib github link:
+
+pandas :  https://github.com/pandas-dev/pandas <br>
+matplotlib: https://github.com/matplotlib/matplotlib
+
 Humidity is represented by a bar graph and other weather elements are represented by a curved line graphs.
 
 ### **Function**
@@ -509,3 +514,7 @@ We hosted on Hugging Face Space. You can experience a demo under the link.
 Here's the link : https://huggingface.co/spaces/lhg99/gradio-demo
 
 ![weather data demo](readme_files/screenshot.gif)
+
+# License
+
+Gradio-demo is licensed under the Apache License 2.0 found in the [LICENSE](LICENSE) file in the root directory of this repository.
